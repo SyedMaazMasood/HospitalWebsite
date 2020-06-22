@@ -1,8 +1,11 @@
 .sidebar-container {
-  position: absolute;
-  width: 220px;
+  position: relative;
+  /*margin-bottom: 25%;*/
+  margin-right: 0px;
+  /*width: 25%;*/
+  float: right;
   height: 100%;
-  right: 0;
+  /*right: 0;*/
   overflow-x: hidden;
   overflow-y: auto;
   background: #343a40;
