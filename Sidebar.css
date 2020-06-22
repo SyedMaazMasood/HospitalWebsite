@@ -1,8 +1,8 @@
 .sidebar-container {
-  position: relative;
-  /*margin-bottom: 25%;*/
-  margin-right: 0px;
-  /*width: 25%;*/
+   position: relative;
+  /*margin-bottom: 25%;----*/
+   margin-right: 0px; */
+  /*width: 25%;---*/
   float: right;
   height: 100%;
   /*right: 0;*/
@@ -10,6 +10,7 @@
   overflow-y: auto;
   background: #343a40;
   color: #fff;
+  /*width: 22%;*/
 }
 
 .content-container {
@@ -56,9 +57,10 @@
 .sidebar-navigation li a:focus {
   text-decoration: none;
   outline: none;
+  background-color: #4c9838;
 }
 
-.sidebar-navigation li::before {
+/* .sidebar-navigation li::before {
   background-color: #4c9838;
   position: absolute;
   content: '';
@@ -69,7 +71,7 @@
   transition: width 0.2s ease-in;
   width: 3px;
   z-index: -1;
-}
+} */
 
 .sidebar-navigation li:hover::before {
   width: 100%;
