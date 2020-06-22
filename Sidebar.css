@@ -1,15 +1,8 @@
 .sidebar-container {
-<<<<<<< HEAD
-  position: fixed;
-  /*margin-bottom: 25%;*/
-  margin-right: 0px;
-  /*width: 25%;*/
-=======
    position: relative;
   /*margin-bottom: 25%;----*/
    margin-right: 0px; */
   /*width: 25%;---*/
->>>>>>> 2043a1f7440099a1e01bbce5f29dc5865dfab7c3
   float: right;
   height: 100%;
   /*right: 0;*/
@@ -67,11 +60,7 @@
   background-color: #4c9838;
 }
 
-<<<<<<< HEAD
-.sidebar-navigation > li::before {
-=======
 /* .sidebar-navigation li::before {
->>>>>>> 2043a1f7440099a1e01bbce5f29dc5865dfab7c3
   background-color: #4c9838;
   position: absolute;
   content: '';
