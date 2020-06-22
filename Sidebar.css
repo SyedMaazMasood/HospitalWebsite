@@ -1,5 +1,5 @@
 .sidebar-container {
-  position: relative;
+  position: fixed;
   /*margin-bottom: 25%;*/
   margin-right: 0px;
   /*width: 25%;*/
@@ -58,7 +58,7 @@
   outline: none;
 }
 
-.sidebar-navigation li::before {
+.sidebar-navigation > li::before {
   background-color: #4c9838;
   position: absolute;
   content: '';
