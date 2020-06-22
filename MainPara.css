@@ -1,5 +1,5 @@
 .Para {
   position: relative;
-  
-  margin-right: 230px;
+  direction: rtl;
+  /* margin-right: 230px; */
 }
