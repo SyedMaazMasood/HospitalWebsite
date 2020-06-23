@@ -1,15 +1,18 @@
-@charset "UTF-8";
+/*@charset "UTF-8";
 @font-face {
   font-family:"mehr-nastaleeq";
   src: url("mehr-nastaleeq.ttf") format("truetype");
-}
+}*/
 
 body {
 
   text-align: right;
-  font-family: mehr-nastaleeq;
+  /* font-family: mehr-nastaleeq; */
   font-size: 20px;
+  /* direction: rtl; */
 }
+
+
 
 .column {
   float: right;
