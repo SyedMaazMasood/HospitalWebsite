@@ -2,4 +2,4 @@ https://www.cdc.gov/ncbddd/birthdefects/downsyndrome.html, https://www.nichd.nih
 DownSynDiseaseWhatis,DownSynDiseaseCauses,DownSynDiseaseScreenDiag,DownSynDiseaseToolsAid
 
 https://www.ninds.nih.gov/Disorders/Patient-Caregiver-Education/Fact-Sheets/Post-Polio-Syndrome-Fact-Sheet#3172_3 for:
-PostPolioDiseaseCauses 
+PostPolioDiseaseCauses,PostPolioDiseaseScreenDiag,PostPolioDiseaseToolsAid 
