@@ -1,0 +1,9 @@
+Material for:
+    LangSwallowAudioDiseaseWhatIs.html
+    LangSwallowAudioDiseaseCauses.html
+    LangSwallowAudioDiseaseScreenDiag.html
+    LangSwallowAudioDiseaseToolsAid.html
+was collected from:
+    https://medlineplus.gov/ency/article/001545.htm
+    https://www.cincinnatichildrens.org/health/f/dysphagia
+    https://kidshealth.org/en/parents/central-auditory.html
